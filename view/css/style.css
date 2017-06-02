@@ -1,0 +1,22 @@
+
+*{
+    font-family: OpenSans;
+}
+.error{
+  text-align: center;
+  background-color: #f2a2a2;
+}
+
+#threadbox{
+  background-color: rgba(0, 209, 178, 0.1) !important;
+}
+
+#container{
+  background-color: rgba(0, 209, 178, 0.1) !important;
+}
+.section{
+  background-color: rgba(0, 209, 178, 0.01) !important;
+}
+#rankimage{
+  margin: 0 auto !important;
+}
